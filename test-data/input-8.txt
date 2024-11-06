@@ -1,0 +1,4 @@
+# Create a ship with one torpedo 
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE  # no more torpedo, failure
